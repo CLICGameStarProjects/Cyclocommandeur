@@ -12,13 +12,13 @@ When we use one sensor, it allows us to detect a rotation, when we have two sens
 
 Basically, you will have a VCC, a GND, and an output. When the composition is two sensors (e.g., rotary encoder), there are two outputs.
 
-![Sensor](./encodeur.jpg)
+![Sensor](./img/encodeur.jpg)
 
 _Something like this._
 
 For this code, you need to connect your sensor to be tested to digital pin 2. If the card is a teensy, this corresponds to pin B2. Don't forget to connect the VCC to the 5V VCC of the board, and the GND to the GND of the board.
 
-![Teensy pinout](./teensy.jpg)
+![Teensy pinout](./img/teensy.jpg)
 
 _Here is an example_
 

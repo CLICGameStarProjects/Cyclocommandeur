@@ -1,9 +1,7 @@
 # Cyclocommandeur
 System for using a bicycle as a controller in a game.
 
-# Cyclocontroller
-
-Setting up and operating a Cyclocommandeur.
+Any ideas for improving the documentation? Do not hesitate to [open an issue](https://github.com/CLICGameStarProjects/Cyclocommandeur/issues)!
 
 **Warning!** If you have already uploaded the code once/if the cyclocommandeur was provided to you by an operator, you do not need to perform the [Code](#code) step!
 
@@ -25,11 +23,18 @@ The mapping of the controls is done as follows:
 
 1) Insert the bike stand, unfold it, and insert the rear wheel of the bike into it.
 
+![1](./img/1.jpg)
+
 2) Use the rack and pinion clamps to secure the front wheel to the bike frame.
+
+![2](./img/2.jpg)
 
 3) Test that everything is stable by getting on the bike and pedalling hard.
 
 4) If everything is stable, put the buttons on the handlebars, and run the cables to the rear support following the brake cable. Use electrician's tape to stabilise the buttons and cables.
+
+![4a](./img/4a.jpg)
+![4b](./img/4b.jpg)
 
 5) Make the cable connections using the following table:
 
