@@ -8,4 +8,6 @@ To test everything, just open the serial monitor, and pedal on the bike!
 
 ## Troubleshooting
 
-tbd.
+Q: Sometimes, the acceleration does not work, even when pedaling fast.
+
+A: ... I have no idea.

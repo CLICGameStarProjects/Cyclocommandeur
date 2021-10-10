@@ -51,6 +51,10 @@ The mapping of the controls is done as follows:
 | Wheel sensor, one of the two remaining wires | Digital 2         |
 | Wheel sensor, remaining wire                 | Digital 3         |
 
+Beware, for Teensy boards, the pinout is quite different!
+
+![Teensy pinout](./img/teensy_pinout.jpg)
+
 6) Plug the board's USB cable into a computer, start the game, and test that everything works!
 
 ## Code
